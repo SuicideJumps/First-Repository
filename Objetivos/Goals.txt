@@ -1,0 +1,5 @@
+1- Conceitos basicos de QA, Quality Assurence
+2- Conhecendo Kanban(JIRA)
+3- Estudar CTFL
+4- Conhecer o Cypress/Selenium para automação
+5- Voltar a ver python/Javascript
